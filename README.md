@@ -1,1 +1,1 @@
-# GenAI-Notebooks
+# Colab-Notebooks
